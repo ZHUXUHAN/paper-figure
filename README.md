@@ -1,3 +1,3 @@
 # paper-figure
 
-# line-chart: 带有散点的折线图
+## line-chart: 带有散点的折线图
